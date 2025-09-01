@@ -49,9 +49,10 @@ Keeper/
 - Dark mode toggle
 
 ## 🙌 Author
-Made with ❤️ by Abhishek Kumar Feel free to fork, contribute, or raise issues!
+Made with ❤️ by [Abhishek Kumar](https://x.com/abhishekkr8399) Feel free to fork, contribute, or raise issues!
 
 This project is a great starting point for anyone learning React and looking to build practical UI components.
+
 
 ```bash
 
